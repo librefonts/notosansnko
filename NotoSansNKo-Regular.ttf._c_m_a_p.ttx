@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x60c" name="afii57388"/><!-- ARABIC COMMA -->
+      <map code="0x61b" name="afii57403"/><!-- ARABIC SEMICOLON -->
+      <map code="0x61f" name="afii57407"/><!-- ARABIC QUESTION MARK -->
+      <map code="0x66a" name="afii57381"/><!-- ARABIC PERCENT SIGN -->
+      <map code="0x7c0" name="uni07C0"/><!-- NKO DIGIT ZERO -->
+      <map code="0x7c1" name="uni07C1"/><!-- NKO DIGIT ONE -->
+      <map code="0x7c2" name="uni07C2"/><!-- NKO DIGIT TWO -->
+      <map code="0x7c3" name="uni07C3"/><!-- NKO DIGIT THREE -->
+      <map code="0x7c4" name="uni07C4"/><!-- NKO DIGIT FOUR -->
+      <map code="0x7c5" name="uni07C5"/><!-- NKO DIGIT FIVE -->
+      <map code="0x7c6" name="uni07C6"/><!-- NKO DIGIT SIX -->
+      <map code="0x7c7" name="uni07C7"/><!-- NKO DIGIT SEVEN -->
+      <map code="0x7c8" name="uni07C8"/><!-- NKO DIGIT EIGHT -->
+      <map code="0x7c9" name="uni07C9"/><!-- NKO DIGIT NINE -->
+      <map code="0x7ca" name="uni07CA"/><!-- NKO LETTER A -->
+      <map code="0x7cb" name="uni07CB"/><!-- NKO LETTER EE -->
+      <map code="0x7cc" name="uni07CC"/><!-- NKO LETTER I -->
+      <map code="0x7cd" name="uni07CD"/><!-- NKO LETTER E -->
+      <map code="0x7ce" name="uni07CE"/><!-- NKO LETTER U -->
+      <map code="0x7cf" name="uni07CF"/><!-- NKO LETTER OO -->
+      <map code="0x7d0" name="uni07D0"/><!-- NKO LETTER O -->
+      <map code="0x7d1" name="uni07D1"/><!-- NKO LETTER DAGBASINNA -->
+      <map code="0x7d2" name="uni07D2"/><!-- NKO LETTER N -->
+      <map code="0x7d3" name="uni07D3"/><!-- NKO LETTER BA -->
+      <map code="0x7d4" name="uni07D4"/><!-- NKO LETTER PA -->
+      <map code="0x7d5" name="uni07D5"/><!-- NKO LETTER TA -->
+      <map code="0x7d6" name="uni07D6"/><!-- NKO LETTER JA -->
+      <map code="0x7d7" name="uni07D7"/><!-- NKO LETTER CHA -->
+      <map code="0x7d8" name="uni07D8"/><!-- NKO LETTER DA -->
+      <map code="0x7d9" name="uni07D9"/><!-- NKO LETTER RA -->
+      <map code="0x7da" name="uni07DA"/><!-- NKO LETTER RRA -->
+      <map code="0x7db" name="uni07DB"/><!-- NKO LETTER SA -->
+      <map code="0x7dc" name="uni07DC"/><!-- NKO LETTER GBA -->
+      <map code="0x7dd" name="uni07DD"/><!-- NKO LETTER FA -->
+      <map code="0x7de" name="uni07DE"/><!-- NKO LETTER KA -->
+      <map code="0x7df" name="uni07DF"/><!-- NKO LETTER LA -->
+      <map code="0x7e0" name="uni07E0"/><!-- NKO LETTER NA WOLOSO -->
+      <map code="0x7e1" name="uni07E1"/><!-- NKO LETTER MA -->
+      <map code="0x7e2" name="uni07E2"/><!-- NKO LETTER NYA -->
+      <map code="0x7e3" name="uni07E3"/><!-- NKO LETTER NA -->
+      <map code="0x7e4" name="uni07E4"/><!-- NKO LETTER HA -->
+      <map code="0x7e5" name="uni07E5"/><!-- NKO LETTER WA -->
+      <map code="0x7e6" name="uni07E6"/><!-- NKO LETTER YA -->
+      <map code="0x7e7" name="uni07E7"/><!-- NKO LETTER NYA WOLOSO -->
+      <map code="0x7e8" name="uni07E8"/><!-- NKO LETTER JONA JA -->
+      <map code="0x7e9" name="uni07E9"/><!-- NKO LETTER JONA CHA -->
+      <map code="0x7ea" name="uni07EA"/><!-- NKO LETTER JONA RA -->
+      <map code="0x7eb" name="uni07EB"/><!-- NKO COMBINING SHORT HIGH TONE -->
+      <map code="0x7ec" name="uni07EC"/><!-- NKO COMBINING SHORT LOW TONE -->
+      <map code="0x7ed" name="uni07ED"/><!-- NKO COMBINING SHORT RISING TONE -->
+      <map code="0x7ee" name="uni07EE"/><!-- NKO COMBINING LONG DESCENDING TONE -->
+      <map code="0x7ef" name="uni07EF"/><!-- NKO COMBINING LONG HIGH TONE -->
+      <map code="0x7f0" name="uni07F0"/><!-- NKO COMBINING LONG LOW TONE -->
+      <map code="0x7f1" name="uni07F1"/><!-- NKO COMBINING LONG RISING TONE -->
+      <map code="0x7f2" name="uni07F2"/><!-- NKO COMBINING NASALIZATION MARK -->
+      <map code="0x7f3" name="uni07F3"/><!-- NKO COMBINING DOUBLE DOT ABOVE -->
+      <map code="0x7f4" name="uni07F4"/><!-- NKO HIGH TONE APOSTROPHE -->
+      <map code="0x7f5" name="uni07F5"/><!-- NKO LOW TONE APOSTROPHE -->
+      <map code="0x7f6" name="uni07F6"/><!-- NKO SYMBOL OO DENNEN -->
+      <map code="0x7f7" name="uni07F7"/><!-- NKO SYMBOL GBAKURUNEN -->
+      <map code="0x7f8" name="uni07F8"/><!-- NKO COMMA -->
+      <map code="0x7f9" name="uni07F9"/><!-- NKO EXCLAMATION MARK -->
+      <map code="0x7fa" name="uni07FA"/><!-- NKO LAJANYALAN -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x200e" name="afii299"/><!-- LEFT-TO-RIGHT MARK -->
+      <map code="0x200f" name="afii300"/><!-- RIGHT-TO-LEFT MARK -->
+      <map code="0x2e1c" name="uni2E1C"/><!-- LEFT LOW PARAPHRASE BRACKET -->
+      <map code="0x2e1d" name="uni2E1D"/><!-- RIGHT LOW PARAPHRASE BRACKET -->
+      <map code="0xfd3e" name="uniFD3E"/><!-- ORNATE LEFT PARENTHESIS -->
+      <map code="0xfd3f" name="uniFD3F"/><!-- ORNATE RIGHT PARENTHESIS -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

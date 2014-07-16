@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="4"/>
+            <FeatureIndex index="2" value="6"/>
+            <FeatureIndex index="3" value="2"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="nko "/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="5"/>
+            <FeatureIndex index="2" value="7"/>
+            <FeatureIndex index="3" value="3"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=8 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="medi"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="medi"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni07EB">
+            <Ligature components="uni07EE" glyph="uni07EF"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni07EC">
+            <Ligature components="uni07EE" glyph="uni07F0"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni07ED">
+            <Ligature components="uni07EE" glyph="uni07F1"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni07CA" out="glyph00075"/>
+          <Substitution in="uni07CB" out="glyph00078"/>
+          <Substitution in="uni07CC" out="glyph00081"/>
+          <Substitution in="uni07CD" out="glyph00084"/>
+          <Substitution in="uni07CE" out="glyph00087"/>
+          <Substitution in="uni07CF" out="glyph00090"/>
+          <Substitution in="uni07D0" out="glyph00093"/>
+          <Substitution in="uni07D1" out="glyph00096"/>
+          <Substitution in="uni07D2" out="glyph00099"/>
+          <Substitution in="uni07D3" out="glyph00102"/>
+          <Substitution in="uni07D4" out="glyph00105"/>
+          <Substitution in="uni07D5" out="glyph00108"/>
+          <Substitution in="uni07D6" out="glyph00111"/>
+          <Substitution in="uni07D7" out="glyph00114"/>
+          <Substitution in="uni07D8" out="glyph00117"/>
+          <Substitution in="uni07D9" out="glyph00120"/>
+          <Substitution in="uni07DA" out="glyph00123"/>
+          <Substitution in="uni07DB" out="glyph00126"/>
+          <Substitution in="uni07DC" out="glyph00129"/>
+          <Substitution in="uni07DD" out="glyph00132"/>
+          <Substitution in="uni07DE" out="glyph00135"/>
+          <Substitution in="uni07DF" out="glyph00138"/>
+          <Substitution in="uni07E0" out="glyph00141"/>
+          <Substitution in="uni07E1" out="glyph00144"/>
+          <Substitution in="uni07E2" out="glyph00147"/>
+          <Substitution in="uni07E3" out="glyph00150"/>
+          <Substitution in="uni07E4" out="glyph00153"/>
+          <Substitution in="uni07E5" out="glyph00156"/>
+          <Substitution in="uni07E6" out="glyph00159"/>
+          <Substitution in="uni07E7" out="glyph00162"/>
+          <Substitution in="uni07E8" out="glyph00165"/>
+          <Substitution in="uni07E9" out="glyph00168"/>
+          <Substitution in="uni07EA" out="glyph00171"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni07CA" out="glyph00076"/>
+          <Substitution in="uni07CB" out="glyph00079"/>
+          <Substitution in="uni07CC" out="glyph00082"/>
+          <Substitution in="uni07CD" out="glyph00085"/>
+          <Substitution in="uni07CE" out="glyph00088"/>
+          <Substitution in="uni07CF" out="glyph00091"/>
+          <Substitution in="uni07D0" out="glyph00094"/>
+          <Substitution in="uni07D1" out="glyph00097"/>
+          <Substitution in="uni07D2" out="glyph00100"/>
+          <Substitution in="uni07D3" out="glyph00103"/>
+          <Substitution in="uni07D4" out="glyph00106"/>
+          <Substitution in="uni07D5" out="glyph00109"/>
+          <Substitution in="uni07D6" out="glyph00112"/>
+          <Substitution in="uni07D7" out="glyph00115"/>
+          <Substitution in="uni07D8" out="glyph00118"/>
+          <Substitution in="uni07D9" out="glyph00121"/>
+          <Substitution in="uni07DA" out="glyph00124"/>
+          <Substitution in="uni07DB" out="glyph00127"/>
+          <Substitution in="uni07DC" out="glyph00130"/>
+          <Substitution in="uni07DD" out="glyph00133"/>
+          <Substitution in="uni07DE" out="glyph00136"/>
+          <Substitution in="uni07DF" out="glyph00139"/>
+          <Substitution in="uni07E0" out="glyph00142"/>
+          <Substitution in="uni07E1" out="glyph00145"/>
+          <Substitution in="uni07E2" out="glyph00148"/>
+          <Substitution in="uni07E3" out="glyph00151"/>
+          <Substitution in="uni07E4" out="glyph00154"/>
+          <Substitution in="uni07E5" out="glyph00157"/>
+          <Substitution in="uni07E6" out="glyph00160"/>
+          <Substitution in="uni07E7" out="glyph00163"/>
+          <Substitution in="uni07E8" out="glyph00166"/>
+          <Substitution in="uni07E9" out="glyph00169"/>
+          <Substitution in="uni07EA" out="glyph00172"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni07CA" out="glyph00077"/>
+          <Substitution in="uni07CB" out="glyph00080"/>
+          <Substitution in="uni07CC" out="glyph00083"/>
+          <Substitution in="uni07CD" out="glyph00086"/>
+          <Substitution in="uni07CE" out="glyph00089"/>
+          <Substitution in="uni07CF" out="glyph00092"/>
+          <Substitution in="uni07D0" out="glyph00095"/>
+          <Substitution in="uni07D1" out="glyph00098"/>
+          <Substitution in="uni07D2" out="glyph00101"/>
+          <Substitution in="uni07D3" out="glyph00104"/>
+          <Substitution in="uni07D4" out="glyph00107"/>
+          <Substitution in="uni07D5" out="glyph00110"/>
+          <Substitution in="uni07D6" out="glyph00113"/>
+          <Substitution in="uni07D7" out="glyph00116"/>
+          <Substitution in="uni07D8" out="glyph00119"/>
+          <Substitution in="uni07D9" out="glyph00122"/>
+          <Substitution in="uni07DA" out="glyph00125"/>
+          <Substitution in="uni07DB" out="glyph00128"/>
+          <Substitution in="uni07DC" out="glyph00131"/>
+          <Substitution in="uni07DD" out="glyph00134"/>
+          <Substitution in="uni07DE" out="glyph00137"/>
+          <Substitution in="uni07DF" out="glyph00140"/>
+          <Substitution in="uni07E0" out="glyph00143"/>
+          <Substitution in="uni07E1" out="glyph00146"/>
+          <Substitution in="uni07E2" out="glyph00149"/>
+          <Substitution in="uni07E3" out="glyph00152"/>
+          <Substitution in="uni07E4" out="glyph00155"/>
+          <Substitution in="uni07E5" out="glyph00158"/>
+          <Substitution in="uni07E6" out="glyph00161"/>
+          <Substitution in="uni07E7" out="glyph00164"/>
+          <Substitution in="uni07E8" out="glyph00167"/>
+          <Substitution in="uni07E9" out="glyph00170"/>
+          <Substitution in="uni07EA" out="glyph00173"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
