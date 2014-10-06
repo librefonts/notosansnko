@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans NKo",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 11836,
+  "fonts": [
+    {
+      "name": "Noto Sans NKo",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansNKo-Regular.ttf",
+      "postScriptName": "NotoSansNKo",
+      "fullName": "Noto Sans NKo",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
